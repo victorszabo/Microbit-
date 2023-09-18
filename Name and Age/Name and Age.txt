@@ -1,0 +1,4 @@
+basic.showString("My name is: ")
+basic.showString("Victor!")
+basic.showString("My age in 2023 is: ")
+basic.showNumber(23)
